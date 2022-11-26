@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
     FontOnePlusSansOverlay  \
+    FontOnePlusSlateOverlay \
     FontOppoSansOverlay \
     FontPingFangOverlay \
     FontSamsungOneSourceOverlay \
