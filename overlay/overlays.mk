@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     FontOnePlusSansOverlay  \
     FontOppoSansOverlay \
     FontPingFangOverlay \
+    FontSamsungOneSourceOverlay \
     FontUrbanistOverlay \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
